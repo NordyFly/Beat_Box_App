@@ -8,14 +8,22 @@ L'interface est conçue pour être colorée et ludique, ajoutant une touche de p
 L'objectif principal de l'application est de vous offrir une expérience visuelle et auditive agréable. 
 
 La combinaison de la musique et des couleurs aléatoires est unique et offre une expérience utilisateur différente à chaque fois que vous utilisez l'application.
-## Authors
+## Environnement
+
+- Vs Code
+- Docker 
+- HTML/CSS
+- JavaScript
+
+
+## Auteur
 
 - [@NordyFly](https://github.com/NordyFly)
 
 
-## 🚀 About Me
+## 🚀 A propos de moi
 I'm a full stack developer...Engagé à écrire du code de qualité!!!
 
 
-![Logo](https://pixabay.com/get/gf92e32eeb4da8fd6bd3d63e1dccb51c301ec39907253fcdf269a12f8731a172f75b114bb6167d9b6e5c86aaf6a926ffaf217f45ed17808567a7c5e2c09b6547a33b088f4444be547675dbbacd832c76b_640.png)
+![Logo](https://www.hebergeur-image.com/upload/91.175.95.39-640b0c173f187.png)
 

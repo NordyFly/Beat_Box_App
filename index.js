@@ -20,7 +20,7 @@ switch (key) {
        audio.play();
        break;
        case "r":
-        var audio = new Audio ("clap1.mp3");
+        var audio = new Audio ("Clap1.mp3");
        audio.play();
        break;
 }
